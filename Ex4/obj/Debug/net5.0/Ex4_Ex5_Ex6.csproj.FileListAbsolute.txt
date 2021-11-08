@@ -1,0 +1,16 @@
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.exe
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.deps.json
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.runtimeconfig.json
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.dll
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\ref\Ex4_Ex5_Ex6.dll
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\bin\Debug\net5.0\Ex4_Ex5_Ex6.pdb
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.AssemblyInfo.cs
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.dll
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\ref\Ex4_Ex5_Ex6.dll
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.pdb
+C:\Users\gusta\source\repos\ExerciciosGFT\Ex4\obj\Debug\net5.0\Ex4_Ex5_Ex6.genruntimeconfig.cache
